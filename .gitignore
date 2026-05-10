@@ -1,0 +1,21 @@
+# Local secrets and OAuth tokens
+.env
+credentials.json
+token.json
+
+# Local runtime memory and logs
+memory/
+*.log
+
+# Python / virtualenv
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
