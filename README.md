@@ -127,9 +127,6 @@ safety.py                      Bounded autonomy policy
 style_memory.py                Optional writing-style profile helper
 verify_walkpa_actions.py       Post-demo verification script
 PLUGGABLE_ARCHITECTURE.md      How to plug WalkPA into Claude, n8n, MCP, etc.
-FINAL_10_DEMO_EMAILS.md        Fresh demo email pack
-TWO_MINUTE_WALKTHROUGH.md      Video script
-SAFE_GITHUB_UPLOAD.md          Safe GitHub upload checklist
 ```
 
 ## Security
